@@ -1,16 +1,34 @@
-## Hi there 👋
+# Salut ! 👋 Je suis Damien Danglard
 
-<!--
-**damien-danglard-cegid/damien-danglard-cegid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par la création de solutions innovantes et l'apprentissage continu.
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Je travaille actuellement chez **Cegid** en tant que développeur
+- 🌱 J'apprends constamment de nouvelles technologies et améliore mes compétences
+- 🎯 Passionné par le développement logiciel et l'innovation technologique
+- 💡 Toujours à la recherche de nouveaux défis et opportunités d'apprentissage
+
+## 🛠️ Technologies & Outils
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📊 Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=damien-danglard-cegid&show_icons=true&theme=default&locale=fr)
+
+## 🌟 Projets en vedette
+
+Découvrez mes repositories pour voir mes projets et contributions !
+
+## 📫 Me contacter
+
+- 💼 LinkedIn : [Connectez-vous avec moi](https://linkedin.com/in/damien-danglard)
+- 📧 Email : Disponible sur demande
+- 🌐 GitHub : Vous y êtes déjà !
+
+---
+
+⭐️ N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !
